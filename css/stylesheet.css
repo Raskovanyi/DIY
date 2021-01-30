@@ -1,0 +1,7 @@
+nav.menu a{
+text-decoration: none;
+margin-left: 20px;
+}
+nav a:hover{
+    color: brown;
+}
