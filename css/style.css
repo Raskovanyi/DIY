@@ -1,0 +1,201 @@
+body {
+    background: url("../img/diy-tools.jpg");
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif', serif;
+}
+
+.tartalom {
+    background-color: rgba(255, 255, 255, 0.85);
+    min-height: 100vh;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.navbar {
+    background-color: rgb(13, 42, 138);
+}
+.navbar-brand img{
+    height: 50px;
+}
+
+
+body {
+min-height: 100vh;
+}
+
+h1 {
+text-align: center;
+}
+
+.festek {
+    border: 1px solid gray;
+    padding: 1rem;
+    margin-top: 15px;
+}
+
+.festek:hover {
+    box-shadow: gray 2px 2px 8px;
+
+}
+
+.festek .minta
+{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+    border: 3px solid white;
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px;
+}
+
+.kep {
+    position: relative;
+}
+
+
+
+.festek h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.festek ul, .festekk li{
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.szerszam .kep {
+    display: block;
+    margin: auto;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 3rem;
+    border: 3px solid white;
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px;
+    background: white;
+    margin-bottom: 0.6rem;
+}
+
+.szerszam .kep img {
+    display: inline-block;
+    width: 70%;
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.szerszam h2 {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.szerszamlista .row {
+    border-top: 1px solid gray;
+}
+.szerszamlista .row:nth-child(2n+1)
+{
+    background: rgba(128, 128, 128, 0.473);
+}
+
+
+
+.blog-kulcsszavak, .blog-evek
+{
+    border: 3px solid rgb(13, 42, 138);;
+    padding: 10px;
+    margin-top: 12px;
+    background: rgba(255, 255, 255, 0.85);
+}
+
+.blog-kulcsszavak h2, .blog-evek h2 {
+    margin: 0;
+    background: rgb(13, 42, 138);;
+    color: #fff;
+    padding: 10px;
+    margin: -10px -10px 10px -10px;
+}
+.blog-kulcsszavak a {
+    display: inline-block;
+    margin: 3px;
+    border-radius: 5px;
+    background: rgb(13, 42, 138);;
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+}
+
+/* BLog*/
+article h {
+    text-align: left;
+    font-size: 1.2 rem;
+}
+
+
+.blog-kep {
+    display: block;
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.blog-kep h1 {
+    width: 100%;
+    position: absolute;
+     bottom: 0;
+     padding-top: 0.5rem;
+     padding-bottom: 0.5rem;
+     text-align: center;
+     background-color: rgba(255, 255, 255, 0.85);
+}
+
+.blog-cikk section{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.blog-cikk img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 600px) {
+    .blog-cikk img {
+        width: 90%;
+    }
+}
+
+
+
+.blog-osszesito article h1{
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+.blog-osszesito article {
+    margin-top: 1rem;
+    border-bottom: 1px solid lightblue;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;;
+}
+
+.blog-osszesito article:first-of-type {
+    
+    border-top: 1px solid lightblue;
+}
+
+/*faanyagok*/
+
+.faanyagok {
+    text-align: center;
+}
+
+.faanyagok .img-thumbnail {
+    max-width: 70%;
+}
