@@ -1,0 +1,256 @@
+/* Rolunk */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.5);
+box-sizing: border-box;
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 80px;
+left: 0px;
+top: 0px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 62px;
+height: 66px;
+left: 27px;
+top: 7px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 119px;
+top: 24px;
+background: #C4C4C4;
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 824px;
+top: 24px;
+background: #C4C4C4;
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 683px;
+top: 24px;
+background: #C4C4C4;
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 260px;
+top: 24px;
+background: #C4C4C4;
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 542px;
+top: 24px;
+background: #C4C4C4;
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 401px;
+top: 24px;
+background: #C4C4C4;
+
+/* Line 1 */
+
+position: absolute;
+width: 89.11px;
+height: 0px;
+left: 27px;
+top: 9px;
+border: 1px solid #000000;
+transform: rotate(45.91deg);
+
+/* Line 2 */
+
+position: absolute;
+width: 89.14px;
+height: 0px;
+left: 88px;
+top: 8px;
+border: 1px solid #000000;
+transform: rotate(133.18deg);
+
+/* Line 3 */
+
+position: absolute;
+width: 1766.97px;
+height: 0px;
+left: 0px;
+top: 0px;
+border: 1px solid #000000;
+transform: rotate(35.42deg);
+
+/* Line 4 */
+
+position: absolute;
+width: 1762.34px;
+height: 0px;
+left: 1440px;
+top: 0px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+transform: rotate(144.79deg);
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 555px;
+height: 66px;
+left: 443px;
+top: 105px;
+background: #C4C4C4;
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 945px;
+height: 137px;
+left: 248px;
+top: 194px;
+background: #C4C4C4;
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 945px;
+height: 254px;
+left: 248px;
+top: 393px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 945px;
+height: 254px;
+left: 245px;
+top: 709px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 214px;
+height: 203px;
+left: 269px;
+top: 416px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 214px;
+height: 203px;
+left: 950px;
+top: 734px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 5 */
+
+position: absolute;
+width: 294.88px;
+height: 0px;
+left: 480px;
+top: 413px;
+border: 1px solid #000000;
+transform: rotate(135.69deg);
+
+/* Line 6 */
+
+position: absolute;
+width: 292.06px;
+height: 0px;
+left: 271px;
+top: 415px;
+border: 1px solid #000000;
+transform: rotate(44.31deg);
+
+/* Line 7 */
+
+position: absolute;
+width: 294.93px;
+height: 0px;
+left: 1163px;
+top: 733px;
+border: 1px solid #000000;
+transform: rotate(136.24deg);
+
+/* Line 8 */
+
+position: absolute;
+width: 294.88px;
+height: 0px;
+left: 952px;
+top: 731px;
+border: 1px solid #000000;
+transform: rotate(44.31deg);
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 128px;
+height: 22px;
+left: 540px;
+top: 421px;
+background: #C4C4C4;
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 128px;
+height: 22px;
+left: 311px;
+top: 734px;
+background: #C4C4C4;
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 585px;
+height: 151px;
+left: 540px;
+top: 468px;
+background: #C4C4C4;
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 585px;
+height: 151px;
+left: 315px;
+top: 779px;
+background: #C4C4C4;

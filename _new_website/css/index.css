@@ -1,0 +1,180 @@
+/* index */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%),
+#FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 102px;
+left: 0px;
+top: 0px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 150px;
+top: 37px;
+background: #C4C4C4;
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 882px;
+top: 37px;
+background: #C4C4C4;
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 730px;
+top: 37px;
+background: #C4C4C4;
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 586px;
+top: 37px;
+background: #C4C4C4;
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 442px;
+top: 38px;
+background: #C4C4C4;
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 126px;
+height: 26px;
+left: 298px;
+top: 37px;
+background: #C4C4C4;
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 961px;
+height: 52px;
+left: 223px;
+top: 119px;
+background: #C4C4C4;
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1140px;
+height: 243px;
+left: 150px;
+top: 227px;
+border: 1px solid #090808;
+box-sizing: border-box;
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 364px;
+height: 55px;
+left: 150px;
+top: 515px;
+background: #C4C4C4;
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1140px;
+height: 132px;
+left: 150px;
+top: 615px;
+background: #C4C4C4;
+
+/* Line 3 */
+
+position: absolute;
+width: 1165.61px;
+height: 0px;
+left: 150px;
+top: 227px;
+border: 1px solid #000000;
+transform: rotate(12.03deg);
+
+/* Line 4 */
+
+position: absolute;
+width: 1165.61px;
+height: 0px;
+left: 1290px;
+top: 227px;
+border: 1px solid #000000;
+transform: rotate(167.97deg);
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 70px;
+height: 71px;
+left: 39px;
+top: 15px;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Line 5 */
+
+position: absolute;
+width: 88.62px;
+height: 0px;
+left: 42px;
+top: 19px;
+border: 1px solid #000000;
+transform: rotate(49.12deg);
+
+/* Line 6 */
+
+position: absolute;
+width: 94.11px;
+height: 0px;
+left: 106px;
+top: 17px;
+border: 1px solid #000000;
+transform: rotate(132.85deg);
+
+/* Line 10 */
+
+position: absolute;
+width: 1766.97px;
+height: 0px;
+left: 0px;
+top: 0px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+transform: rotate(35.42deg);
+
+/* Line 11 */
+
+position: absolute;
+width: 1766.97px;
+height: 0px;
+left: 1440px;
+top: 0px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+transform: rotate(144.58deg);
